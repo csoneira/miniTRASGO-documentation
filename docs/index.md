@@ -1,4 +1,7 @@
 # Welcome to the miniTRASGO documentation
+
+Version of August 2025
+
 Here everything necessary to use the miniTRASGO (miniature TRASGO: TRAck reconStructinG bOx), aka minGO, and its data is found.
 
 ## Logbook
