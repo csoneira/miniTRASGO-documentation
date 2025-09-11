@@ -2,7 +2,13 @@
 
 *Last updated: August 2025*
 
-Welcome to the official documentation for the miniTRASGO (miniature TRASGO) cosmic ray telescope. This site collects everything needed to operate a miniTRASGO unit and analyze its data.
+Welcome to the official documentation for the miniTRASGO (miniature TRASGO)
+cosmic ray telescope. miniTRASGO is a compact, cost-effective muon tracker based
+on Resistive Plate Chambers. It monitors secondary cosmic rays to study solar
+activity, atmospheric correlations, and space weather. With stations operating in
+Madrid, Warsaw, and Puebla and another planned for Monterrey, the project is
+building a scalable network across different latitudes. This site collects
+everything needed to operate a miniTRASGO unit and analyze its data.
 
 ## Project Resources
 
