@@ -1,2 +1,4 @@
 # Motivation
-The fundamental question is the following: **is it possible to measure high energy cosmic rays with a few small detectors?** This is the originlaity and motivation behind the miniTRASGO, but also behind the TRASGO project. Cosmic ray observatories are usually spread in a wide area (Pierre Auger, HAWK...) trying to get the most total view of the cosmic ray shower, collecting it totally. It would be interesting if we could measure only a very narrow region of the shower and extrapolate from that data the characteristics of the complete cascade, as well as the energy of the incoming primary cosmic ray.
+
+Can a handful of small detectors capture enough information from a cosmic-ray shower to infer the properties of the primary particle?  
+This question drives both the miniTRASGO and the broader TRASGO project. Large observatories such as Pierre Auger or HAWC sample the shower over vast areas; miniTRASGO explores whether similar insight can be obtained by instrumenting only a small region of the cascade and extrapolating the missing information.

@@ -1,32 +1,34 @@
-# Welcome to the miniTRASGO documentation
+# miniTRASGO Documentation
 
-Version of August 2025
+*Last updated: August 2025*
 
-Here everything necessary to use the miniTRASGO (miniature TRASGO: TRAck reconStructinG bOx), aka minGO, and its data is found.
+Welcome to the official documentation for the miniTRASGO (miniature TRASGO) cosmic ray telescope. This site collects everything needed to operate a miniTRASGO unit and analyze its data.
 
-## Logbook
-We encourage the miniTRASGO user to keep track of any activity they develop for any of the miniTRASGOs in the following logbook made in Google Sheets: [miniTRASGO logbook](https://docs.google.com/spreadsheets/d/1ato36QkIXCxFkDT_LtAaLjPP7pvLcor-xZAP4fy00l0/edit?gid=816573551#gid=816573551)
+## Project Resources
 
-## Notebook
-Find in this link the a notebook with a more precise registration of thoughts and calculations: [miniTRASGO notebook](https://docs.google.com/document/d/e/2PACX-1vQD_Zr4IW3ZZl0sX4jf7jcD_9tdXbD-kIDpydO0k9HWhewk7yDDWJEF4PC4ARUu1nk-mdEexsyPXXY-/pub)
+- **Logbook** – track activities in the [miniTRASGO logbook](https://docs.google.com/spreadsheets/d/1ato36QkIXCxFkDT_LtAaLjPP7pvLcor-xZAP4fy00l0/edit?gid=816573551#gid=816573551).
+- **Notebook** – detailed notes and calculations in the [miniTRASGO notebook](https://docs.google.com/document/d/e/2PACX-1vQD_Zr4IW3ZZl0sX4jf7jcD_9tdXbD-kIDpydO0k9HWhewk7yDDWJEF4PC4ARUu1nk-mdEexsyPXXY-/pub).
 
 ## Repositories
 
-### Web repository
-The repository from which the webpage is built: [miniTRASGO documentation repository](https://github.com/cayesoneira/miniTRASGO).
+- **Documentation** – [miniTRASGO documentation repository](https://github.com/cayesoneira/miniTRASGO).
+- **Software** – [analysis and monitoring tools](https://github.com/cayesoneira/miniTRASGO-analysis/tree/main).
 
-### Software repository
-Some of the analysis and monitoring software: [miniTRASGO software repository](https://github.com/cayesoneira/miniTRASGO-analysis/tree/main).
+## Device Communication
 
-## Device communication
+### SSH access
 
-### `ssh` connection
-Write in the terminal the following:
+Connect to the device from a terminal:
 
-    ssh rpcuser@minitrasgo.fis.ucm.es
+```bash
+ssh rpcuser@minitrasgo.fis.ucm.es
+```
 
-### Web based DAQ Control
-Just paste in your **browser** the following address to connect locally to the miniTRASGO control webserver via ethernet:
+### Web-based DAQ control
 
-    minitrasgo.fis.ucm.es:1234
+Open the following address in a browser on the local network to access the control web server:
+
+```
+http://minitrasgo.fis.ucm.es:1234
+```
 
