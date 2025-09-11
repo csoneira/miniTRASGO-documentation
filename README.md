@@ -1,67 +1,67 @@
 # miniTRASGO Documentation
 
-Version of August 2025
+*Last updated: August 2025*
 
-**Welcome to the miniTRASGO Cosmic Ray Telescope documentation!**  
-This repository hosts the documentation and usage guide for the miniTRASGO project. The documentation is built using **mkdocs**, a simple and user-friendly tool that generates a webpage from markdown files. **No specific coding knowledge is required to contribute!**
+Welcome to the documentation portal for the miniTRASGO cosmic ray telescope. This repository contains the source files for the [MkDocs](https://www.mkdocs.org/)-based website. Contributions are welcome and do not require advanced programming knowledge.
 
 ---
 
 ## How to Edit the Documentation
 
-Anyone with a GitHub account can contribute to the documentation by editing markdown files directly on GitHub. Here's how:
+Anyone with a GitHub account can improve the documentation by editing Markdown files directly on GitHub:
 
-### Step 1: Fork the Repository (First-Time Contributors)
+### Step 1: Fork the Repository (first-time contributors)
 
 1. Go to the [miniTRASGO GitHub repository](https://github.com/cayesoneira/miniTRASGO).
-2. Click the **Fork** button in the top-right corner. This creates a copy of the repository under your GitHub account.
+2. Click **Fork** to create a copy under your GitHub account.
 
-### Step 2: Edit Files Online (Preferred Method)
+### Step 2: Edit Files Online (preferred method)
 
-1. In your forked repository, navigate to the `docs/` folder.
-2. Find the markdown file you want to edit (e.g., `docs/home/motivation.md`).
-3. Click the file to open it, then click the **pencil icon** (✏️) in the top-right corner to start editing.
-4. Make your changes using **Markdown syntax** (simple text formatting).  
-   - Need help with Markdown? Check out this [Markdown Guide](https://www.markdownguide.org/).
+1. In your forked repository, open the `docs/` folder.
+2. Select the Markdown file you want to edit (for example, `docs/home/motivation.md`).
+3. Click the **pencil** icon (✏️) to start editing.
+4. Write your changes using [Markdown syntax](https://www.markdownguide.org/).
 
 ### Step 3: Propose Changes
 
-1. After editing, scroll down to the "Commit changes" section.
-2. Add a short description of your changes (e.g., "Fixed typo in motivation section").
-3. Select **Create a new branch for this commit and start a pull request**.
+1. Scroll to the "Commit changes" section.
+2. Provide a brief description of your update.
+3. Choose **Create a new branch for this commit and start a pull request**.
 4. Click **Propose changes**.
 
 ### Step 4: Create a Pull Request
 
-1. Review your changes on the pull request page.
-2. Add a title and description explaining your changes.
-3. Click **Create pull request**.  
-   - Your changes will be reviewed by the repository owners and merged if approved.
+1. Review the differences on the pull request page.
+2. Add a title and explanation.
+3. Click **Create pull request**. The repository owners will review and merge approved contributions.
 
 ---
 
 ### Adding a New Page
 
 To add a new page:
-1. In your forked repository, click **Add file** in the `docs/` folder and create a new `.md` file (e.g., `docs/help/new-topic.md`).
-2. Edit the `mkdocs.yml` file and add the new file under the appropriate section in the `nav` section. For example:
-   ```yaml
-   nav:
-       - Troubleshooting:
-           - help/index.md
-           - help/new-topic.md
-   ```
-3. Follow the steps above to propose changes and create a pull request.
+
+1. In your fork, click **Add file** in the `docs/` folder and create a new `.md` file (e.g. `docs/help/new-topic.md`).
+2. Edit `mkdocs.yml` and add the file under the appropriate entry in `nav`:
+
+```yaml
+nav:
+    - Troubleshooting:
+        - help/index.md
+        - help/new-topic.md
+```
+
+3. Follow the steps above to propose the change and open a pull request.
 
 ---
 
 ## Structure of the Documentation
 
-The documentation is organized into folders and markdown files. Below is the hierarchy:
+The documentation is organized into folders and Markdown files:
 
 ```
 miniTRASGO/
-│   mkdocs.yml  # Configuration file for mkdocs
+│   mkdocs.yml  # Configuration file for MkDocs
 │   README.md   # This file
 │
 ├── docs/       # Main documentation directory
@@ -96,23 +96,25 @@ miniTRASGO/
 
 ---
 
-## Deployment Process: For Repository Owners Only
+## Deployment Process (for repository owners)
 
-The deployment of the documentation is **automatic using GitHub Actions**. Contributors do not need to worry about this step. The documentation is automatically updated with every hour push and hosted at [https://csoneira.github.io/miniTRASGO-documentation/](https://csoneira.github.io/miniTRASGO-documentation/).
+The site is built automatically via GitHub Actions after each push and is hosted at [https://csoneira.github.io/miniTRASGO-documentation/](https://csoneira.github.io/miniTRASGO-documentation/).
 
 ---
 
 ## Troubleshooting
 
 If you encounter issues while editing:
-- Ensure the markdown syntax is correct.
-- Verify that new files are referenced in the scheme in `mkdocs.yml`.
-- If the online site does not update, contact the repository owners.
+
+- Ensure the Markdown syntax is correct.
+- Verify that new files are referenced in `mkdocs.yml`.
+- If the site does not update, contact the repository owners.
 
 ---
 
 ## Contact
 
-For questions, suggestions, or contributions, feel free to:
+For questions, suggestions, or contributions, you can:
+
 - Create an issue in the [GitHub repository](https://github.com/csoneira/miniTRASGO-documentation/issues).
 - Contact the repository owners directly.
