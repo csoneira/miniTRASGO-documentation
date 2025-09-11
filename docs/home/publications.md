@@ -2,36 +2,18 @@
 
 ### Published Papers
 
-1. Saraiva, J.P., Blanco, A., Garzón, J.A., Garcìa-Castro, D., Lopes, L., & Villasante-Marcos, V. (2020). **The TRISTAN detector—2018–2019 latitude survey of cosmic rays.** Journal of Instrumentation (JINST), 15, C09024.
-
-2. Assis, P., Blanco, A., Brogueira, P., Cazon, L., Fonte, P., Lopes, L., Pereira, A., Pimenta, M., dos Santos, E., & Schweizer, T. (2011). **R&D for an autonomous RPC station in air shower detector arrays.** Proceedings of the 32nd International Cosmic Ray Conference. Published on 2011-09-18.
-
-3. Assis, P., Blanco, A., Carolino, N., Conceição, R., Cunha, O., Dobrigkeit, C., Ferreira, M., Fonte, P., Lopes, L., Luz, R., Martins, V.B., Mendes, L., Pereira, A., Pimenta, M., Sarmento, R., Shellard, R., de Souza, V., & Tomé, B. (2017). **Autonomous RPCs for a Cosmic Ray ground array.** PoS ICRC2017, 379 (2018). Published on 2017-08-16.
-
-4. Garzón, J.A., Collazo, J., Cuenca-García, J., García Castro, D., Otero, J., Yermo, M., Blanco, J.J., Kurtukian, T., Morozova, A., Pais, M.A., Blanco, A., Fonte, P., Lopes, L., Kornakov, G., Álvarez-Pol, H., Cabanelas, P., Pazos, A., Seco, M., Riádigos, I., Pérez Muñuzuri, V., Gómez-Tato, A., Mouriño, J.C., Rey, P., & Taboada, J. (2017). **TRAGALDABAS. First results on cosmic ray studies and their relation with the solar activity, the Earth magnetic field and the atmospheric properties.** arXiv preprint arXiv:1701.07277.
-
-5. Blanco, A., et al. (2014). **TRAGALDABAS: a new RPC based detector for the regular study of cosmic rays.** Journal of Instrumentation (JINST), 9(C09027), 2014-09-25.
-
-6. Blanco, A., Fonte, P., Lopes, L., et al. (2015). **TRAGALDABAS: A new high resolution detector for the regular study of cosmic rays.** Journal of Physics: Conference Series (J PHYS CONF SER), 632(2015), 012010.
-
-7. Belver, D., Blanco, A., Cabanelas, P., Diaz, J., Fonte, P., Garzon, J.A., Gil, A., Gonzalez-Diaz, D., Koenig, W., Kolb, B., Kornakov, G., Lopes, L., Palka, M., Pereira, A., Traxler, M., & Zumbruch, P. (2012). **Analysis of the space-time microstructure of cosmic ray air showers using the HADES RPC TOF wall.** Journal of Instrumentation (J. Instrum.), 7, P10007 (2012), 2012-10-01.
-
-8. Blanco, A., Belver, D., Cabanelas, P., Díaz, J., Fonte, P., Garzon, J.A., Gil, A., Gonzalez-Díaz, D., Koenig, W., Kolb, B., Lopes, L., Palka, M., Pereira, A., Traxler, M., & Zumbruch, P. (2012). **RPC HADES-TOF wall cosmic ray test performance.** Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment (Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc. Equip.), 661, S114 (2012), 2012-01-01.
-
-9. D. Belver, P. Cabanelas, D. Domínguez, Juan A. Garzón, G. Kornakov, M.F. Morales,
-TRASGO: A proposal for a timing RPCs based detector for analyzing cosmic ray air showers,
-Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment,
-Volume 661, Supplement 1,
-2012,
-Pages S163-S167,
-ISSN 0168-9002,
-https://doi.org/10.1016/j.nima.2010.09.173.
-(https://www.sciencedirect.com/science/article/pii/S0168900210022084)
-Keywords: Timing RPCs; Cosmic rays; Extended air showers; Tracking detectors
-
-10. https://rdcu.be/dkJB9
-García-Castro, D., Ajoor, M., Alvarez-Pol, H. et al. The TRASGO Project. Present Status and Results. Phys. Atom. Nuclei 84, 1070–1079 (2021). https://doi.org/10.1134/S1063778821130093
-
+*   Soneira-Landin, C., Blanco, A., Fraile, L.M., Garzón, J.A., Kornakov, G., Lopes, L., Nouvilas, V.M., & Udias, J.M. (2025). **miniTRASGO: A compact RPC tracker for cosmic ray studies.** *Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment*. DOI: 10.1016/j.nima.2025.170511.
+*   Soneira-Landin, C., Blanco, A., Fraile, L.M., Garzón, J.A., Kornakov, G., Lopes, L., Michel, J., Nouvilas, V.M., & Udias, J.M. (2025). **miniTRASGO: design and initial results of a compact Resistive Plate Chamber telescope for worldwide cosmic ray monitoring.** *Advances in Space Research*. DOI: 10.1016/j.asr.2025.07.096.
+*   García-Castro, D., Ajoor, M., Alvarez-Pol, H., Blanco, A., Cabanelas, P., Castro, E., Díaz, J., Fonte, P., Garzón, J.A., Gil, A., González-Díaz, D., Kornakov, G., Lopes, L., Palka, M., Pérez-Trigo, E., & Soriano, J. (2021). **The TRASGO Project. Present Status and Results.** *Physics of Atomic Nuclei*, 84, 1070–1079. https://doi.org/10.1134/S1063778821130093.
+*   Saraiva, J.P., Blanco, A., Garzón, J.A., Garcìa-Castro, D., Lopes, L., & Villasante-Marcos, V. (2020). **The TRISTAN detector—2018–2019 latitude survey of cosmic rays.** *Journal of Instrumentation (JINST)*, 15, C09024.
+*   Assis, P., Blanco, A., Carolino, N., Conceição, R., Cunha, O., Dobrigkeit, C., Ferreira, M., Fonte, P., Lopes, L., Luz, R., Martins, V.B., Mendes, L., Pereira, A., Pimenta, M., Sarmento, R., Shellard, R., de Souza, V., & Tomé, B. (2018). **Autonomous RPCs for a Cosmic Ray ground array.** *PoS ICRC2017*, 379.
+*   Garzón, J.A., Collazo, J., Cuenca-García, J., García Castro, D., Otero, J., Yermo, M., Blanco, J.J., Kurtukian, T., Morozova, A., Pais, M.A., Blanco, A., Fonte, P., Lopes, L., Kornakov, G., Álvarez-Pol, H., Cabanelas, P., Pazos, A., Seco, M., Riádigos, I., Pérez Muñuzuri, V., Gómez-Tato, A., Mouriño, J.C., Rey, P., & Taboada, J. (2017). **TRAGALDABAS. First results on cosmic ray studies and their relation with the solar activity, the Earth magnetic field and the atmospheric properties.** *arXiv preprint* arXiv:1701.07277.
+*   Blanco, A., Fonte, P., Lopes, L., et al. (2015). **TRAGALDABAS: A new high resolution detector for the regular study of cosmic rays.** *Journal of Physics: Conference Series (J PHYS CONF SER)*, 632, 012010.
+*   Blanco, A., et al. (2014). **TRAGALDABAS: a new RPC based detector for the regular study of cosmic rays.** *Journal of Instrumentation (JINST)*, 9, C09027.
+*   Belver, D., Blanco, A., Cabanelas, P., Diaz, J., Fonte, P., Garzon, J.A., Gil, A., Gonzalez-Diaz, D., Koenig, W., Kolb, B., Kornakov, G., Lopes, L., Palka, M., Pereira, A., Traxler, M., & Zumbruch, P. (2012). **Analysis of the space-time microstructure of cosmic ray air showers using the HADES RPC TOF wall.** *Journal of Instrumentation (J. Instrum.)*, 7, P10007.
+*   Blanco, A., Belver, D., Cabanelas, P., Díaz, J., Fonte, P., Garzon, J.A., Gil, A., Gonzalez-Díaz, D., Koenig, W., Kolb, B., Lopes, L., Palka, M., Pereira, A., Traxler, M., & Zumbruch, P. (2012). **RPC HADES-TOF wall cosmic ray test performance.** *Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment*, 661, S114.
+*   Belver, D., Cabanelas, P., Domínguez, D., Garzón, J.A., Kornakov, G., & Morales, M.F. (2012). **TRASGO: A proposal for a timing RPCs based detector for analyzing cosmic ray air showers.** *Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment*, 661, S163–S167. https://doi.org/10.1016/j.nima.2010.09.173.
+*   Assis, P., Blanco, A., Brogueira, P., Cazon, L., Fonte, P., Lopes, L., Pereira, A., Pimenta, M., dos Santos, E., & Schweizer, T. (2011). **R&D for an autonomous RPC station in air shower detector arrays.** *Proceedings of the 32nd International Cosmic Ray Conference*.
 
 ---
 ### Ph.D. Theses
