@@ -1,7 +1,5 @@
 # miniTRASGO Documentation
 
-*Last updated: August 2025*
-
 Welcome to the documentation portal for the miniTRASGO cosmic ray telescope. This repository contains the source files for the [MkDocs](https://www.mkdocs.org/)-based website. Contributions are welcome and do not require advanced programming knowledge.
 
 ---
