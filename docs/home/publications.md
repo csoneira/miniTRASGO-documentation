@@ -16,7 +16,7 @@
 
 * Riádigos, I., García-Castro, D., González-Díaz, D., & Pérez-Muñuzuri, V. (2020). **Atmospheric temperature effect in secondary cosmic rays observed with a 2 m² ground-based tRPC detector.** *Earth and Space Science*, 7, e2020EA001131. [https://doi.org/10.1029/2020EA001131](https://doi.org/10.1029/2020EA001131)  
 
-* Saraiva, J.P., Blanco, A., Garzón, J.A., García-Castro, D., Lopes, L., & Villasante-Marcos, V. (2020). **The TRISTAN detector—2018–2019 latitude survey of cosmic rays.** *Journal of Instrumentation (JINST)*, 15, C09024.  
+* Saraiva, J.P., Blanco, A., Garzón, J.A., García-Castro, D., Lopes, L., & Villasante-Marcos, V. (2020). **The TRISTAN detector—2018–2019 latitude survey of cosmic rays.** *Journal of Instrumentation (JINST)*, 15, C09024. [https://doi.org/10.1088/1748-0221/15/09/C09024](https://doi.org/10.1088/1748-0221/15/09/C09024)
 
 * Riádigos, I., García-Castro, D., González-Díaz, D., Garzón-Heydt, J.A., Pérez-Muñuzuri, V., & the TRAGALDABAS Collaboration (2018). **Study of the atmosphere with a high resolution Cosmic Ray detector.** *Geophysical Research Abstracts*, 20, EGU2018-18049. EGU General Assembly 2018, Vienna, Austria.  
 
