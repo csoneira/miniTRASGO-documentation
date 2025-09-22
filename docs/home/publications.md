@@ -1,12 +1,12 @@
 ## Publications about TRASGO or TRASGO-related
 
-Here is the revised list in Markdown, now shortened with *et al.* when author lists exceed \~10 names, while keeping consistency in formatting and clickable DOIs:
-
 ### Published Papers
 
 * Soneira-Landin, C., Blanco, A., Fraile, L.M., Garzón, J.A., Kornakov, G., Lopes, L., Nouvilas, V.M., & Udías, J.M. (2025). **miniTRASGO: A compact RPC tracker for cosmic ray studies.** *Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment*. [https://doi.org/10.1016/j.nima.2025.170511](https://doi.org/10.1016/j.nima.2025.170511)  
 
 * Soneira-Landin, C., Blanco, A., Fraile, L.M., Garzón, J.A., Kornakov, G., Lopes, L., Michel, J., Nouvilas, V.M., & Udías, J.M. (2025). **miniTRASGO: Design and initial results of a compact Resistive Plate Chamber telescope for worldwide cosmic ray monitoring.** *Advances in Space Research*. [https://doi.org/10.1016/j.asr.2025.07.096](https://doi.org/10.1016/j.asr.2025.07.096)  
+
+* Soneira-Landín, C., Blanco, A., Fraile, L.M., Garzón, J.A., Kornakov, G., Lopes, L., Nouvilas, V.M., & Udías, J.M. (2025). **miniTRASGO: A compact RPC telescope for global cosmic ray monitoring.** In *Proceedings of the 39th International Cosmic Ray Conference (ICRC2025)*, 15–24 July 2025, Geneva, Switzerland. PoS(ICRC2025)1368. (submitted)  
 
 * Riádigos, I., González-Díaz, D., & Pérez-Muñuzuri, V. (2022). **Revisiting the limits of atmospheric temperature retrieval from cosmic-ray measurements.** *Earth and Space Science*, 9, e2021EA001982. [https://doi.org/10.1029/2021EA001982](https://doi.org/10.1029/2021EA001982)  
 
