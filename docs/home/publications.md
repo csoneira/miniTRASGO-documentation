@@ -37,12 +37,21 @@
 * Assis, P., Blanco, A., Brogueira, P., Cazon, L., Fonte, P., Lopes, L., Pereira, A., Pimenta, M., dos Santos, E., & Schweizer, T. (2011). **R&D for an autonomous RPC station in air shower detector arrays.** In *Proceedings of the 32nd International Cosmic Ray Conference (ICRC2011)*, Beijing, China.  
 
 ---
+
 ### Ph.D. Theses
 
-1. García Castro, Damián. **Cosmic Rays' study with a TRASGO detector.** PhD thesis, Universidade de Santiago de Compostela. Escola de Doutoramento Internacional (EDIUS), Universidade de Santiago de Compostela. Programa de Doutoramento en Física Nuclear e de Partículas, 2022. Embargo: 2023-07-22. URI: [http://hdl.handle.net/10347/29288](http://hdl.handle.net/10347/29288). Rights: Attribution-NonCommercial-NoDerivatives 4.0 Internacional. Advisor: Juan Pablo Garzón Heydt.
+* García Castro, Damián. **Cosmic Rays' study with a TRASGO detector.** PhD thesis, Universidade de Santiago de Compostela. Escola de Doutoramento Internacional (EDIUS), Universidade de Santiago de Compostela. Programa de Doutoramento en Física Nuclear e de Partículas, 2022. Embargo: 2023-07-22. URI: [http://hdl.handle.net/10347/29288](http://hdl.handle.net/10347/29288). Rights: Attribution-NonCommercial-NoDerivatives 4.0 Internacional. Advisor: Juan Pablo Garzón Heydt.
 
-2. Fontenla Barba, Yanis. **Studies on the composition and energy of secondary cosmic rays with the Tragaldabas detector.** PhD thesis, Universidade de Santiago de Compostela. Centro Internacional de Estudos de Doutoramento e Avanzados (CIEDUS), Universidade de Santiago de Compostela. Escola de Doutoramento Internacional en Ciencias e Tecnoloxía, Universidade de Santiago de Compostela. Programa de Doutoramento en Física Nuclear e de Partículas, 2019. URI: [http://hdl.handle.net/10347/20655](http://hdl.handle.net/10347/20655). Rights: Attribution-NonCommercial-NoDerivatives 4.0 Internacional. Advisors: Juan Antonio Garzón Heydt, Pablo Cabanelas Eiras.
+* Fontenla Barba, Yanis. **Studies on the composition and energy of secondary cosmic rays with the Tragaldabas detector.** PhD thesis, Universidade de Santiago de Compostela. Centro Internacional de Estudos de Doutoramento e Avanzados (CIEDUS), Universidade de Santiago de Compostela. Escola de Doutoramento Internacional en Ciencias e Tecnoloxía, Universidade de Santiago de Compostela. Programa de Doutoramento en Física Nuclear e de Partículas, 2019. URI: [http://hdl.handle.net/10347/20655](http://hdl.handle.net/10347/20655). Rights: Attribution-NonCommercial-NoDerivatives 4.0 Internacional. Advisors: Juan Antonio Garzón Heydt, Pablo Cabanelas Eiras.
 
-3. Ajoor, Marwan Yassir Kamel. **Study of Cosmic Ray data with the TRISTAN and TRAGALDABAS detection systems.** PhD thesis, Universidade de Santiago de Compostela. Escola de Doutoramento Internacional (EDIUS), Universidade de Santiago de Compostela. Programa de Doutoramento en Física Nuclear e de Partículas, 2022. URI: [http://hdl.handle.net/10347/28824](http://hdl.handle.net/10347/28824). Rights: Attribution-NonCommercial-NoDerivatives 4.0 Internacional. Advisors: Juan Pablo Garzón Heydt, Pablo Cabanelas Eiras.
+* Ajoor, Marwan Yassir Kamel. **Study of Cosmic Ray data with the TRISTAN and TRAGALDABAS detection systems.** PhD thesis, Universidade de Santiago de Compostela. Escola de Doutoramento Internacional (EDIUS), Universidade de Santiago de Compostela. Programa de Doutoramento en Física Nuclear e de Partículas, 2022. URI: [http://hdl.handle.net/10347/28824](http://hdl.handle.net/10347/28824). Rights: Attribution-NonCommercial-NoDerivatives 4.0 Internacional. Advisors: Juan Pablo Garzón Heydt, Pablo Cabanelas Eiras.
 
-4. Cuenca García, José Javier. **Simulation and reconstruction algorithms for a commercial muon tomography system.** PhD thesis, Universidade de Santiago de Compostela. Centro Internacional de Estudos de Doutoramento e Avanzados (CIEDUS), Universidade de Santiago de Compostela. Escola de Doutoramento Internacional en Ciencias e Tecnoloxía, Universidade de Santiago de Compostela.
+* Cuenca García, José Javier. **Simulation and reconstruction algorithms for a commercial muon tomography system.** PhD thesis, Universidade de Santiago de Compostela. Centro Internacional de Estudos de Doutoramento e Avanzados (CIEDUS), Universidade de Santiago de Compostela. Escola de Doutoramento Internacional en Ciencias e Tecnoloxía, Universidade de Santiago de Compostela.
+
+---
+
+### Projects and Industry Reports
+
+* Logicmelt (2025). **Stratos DS – Stratospheric temperature prediction using artificial intelligence.** Logicmelt – Use Cases. Retrieved from [https://logicmelt.com/en/use-cases_eng/stratos-ds-prediction-of-the-stratosphere-temperature/](https://logicmelt.com/en/use-cases_eng/stratos-ds-prediction-of-the-stratosphere-temperature/)  
+
+* NAC-Intercom (2025). **Project STRATOS – Ground Station for Continuous Monitoring of the Stratosphere Temperature through Cosmic Ray Directional Flow.** NAC-Intercom – Projects. Retrieved from [https://www.nac-inter.com/en/content/30-project-stratos](https://www.nac-inter.com/en/content/30-project-stratos)
