@@ -1,6 +1,6 @@
 # miniTRASGO Documentation
 
-*Last updated: August 2025*
+*Last updated: September 2025*
 
 Welcome to the official documentation for the miniTRASGO (miniature TRASGO)
 cosmic ray telescope. miniTRASGO is a compact, cost-effective muon tracker based
