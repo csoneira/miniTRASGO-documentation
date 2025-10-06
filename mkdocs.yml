@@ -29,6 +29,7 @@ nav:
 #        - Tasks: tasks/todo.md
         - Objectives: tasks/objectives.md
         - To understand: tasks/to-understand.md
+        - Documentation backlog: tasks/documentation-backlog.md
         - Notebook: tasks/notes.md
     - Troubleshooting:
         - help/index.md
