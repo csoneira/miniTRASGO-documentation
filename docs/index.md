@@ -1,4 +1,4 @@
-# miniTRASGO Documentation (deprecated, please check [https://csoneira.github.io/DATAFLOW_v3/][https://csoneira.github.io/DATAFLOW_v3/])
+# miniTRASGO Documentation (deprecated, please check [https://csoneira.github.io/DATAFLOW_v3/])
 
 *Last updated: September 2025*
 
